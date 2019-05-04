@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcel Demo</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
